@@ -19,7 +19,7 @@
 const ekow = {
   role:       "Software Engineer — APIs & web apps",
   experience: "6+ years",
-  building:   "WeGoo — a logistics marketplace connecting local delivery companies to e-commerce businesses & SMEs",
+  building:   "WeGoo — a last mile delivery infrastructure for MSMEs and social commerce businesses",
   learning:   ["Go", "backend systems design"],
   education:  "MSc Advanced Computer Science, Loughborough University",
 };
@@ -40,9 +40,9 @@ const ekow = {
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ekow-mensah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekow-mensah&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekow-mensah&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&hide=assembly,makefile,tex" alt="Top languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ekow-mensah&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=ffffff&area=true&area_color=2563eb&hide_border=true" alt="Contribution graph" />
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekow-mensah/ekow-mensah/output/snake-dark.svg" />
