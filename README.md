@@ -1,78 +1,62 @@
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ekow+Mensah....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=ekow-mensah)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=Ekow%20Mensah&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20APIs%20%26%20Web%20Apps&descAlignY=57&descSize=17" width="100%" alt="header" />
 
-<h5 align="left">
-  <code><a href="https://www.linkedin.com/in/ekow-mensah/" title="LinkedIn Profile"><img width="22" src="ttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-</h5>
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Building+WeGoo+%E2%80%94+logistics+for+modern+commerce;6%2B+years+shipping+APIs+%26+web+apps;Currently+leveling+up+in+Go" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ekow-mensah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ekow.y.mensah@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/ekow-mensah/ekow-mensah/issues"><img src="https://img.shields.io/badge/Ask_me_anything-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ask me anything" /></a>
+<img src="https://komarev.com/ghpvc/?username=ekow-mensah&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br/>
+
+### 👋 About me
+
+```ts
+const ekow = {
+  location:   "United Kingdom 🇬🇧  ·  from Ghana 🇬🇭",
+  experience: "6+ years building APIs & web apps",
+  education:  "MSc Advanced Computer Science — Loughborough University",
+  building:   "WeGoo — a logistics marketplace connecting local delivery companies to e-commerce businesses & SMEs",
+  learning:   ["Go", "backend systems design"],
+  loves:      "writing code & building new things",
+};
+```
+
+<br/>
+
+### 🛠️ Tech stack
+
 <p align="left">
-  Hi, I'm Ekow Mensah, a software developer from Ghana based in the UK with over 6 years experience building APIs and Web Apps.
-  <br>
-  <br>
-  🔬 I'm currently building WeGoo, a logistics marketplace which connects local delivery companies to e-commerce businesses and SMEs.
-  <br>
-  <br>
-  🎓I have a master's degree in Advanced Computer Science from the university of Loughborough
-  <br>
-  <br>
-  💻 I love writing code and building new things
-  <br>
-  <br>
-  📚 I’m currently learning backend development with Go
-  <br>
-  <br>
-  💬 Ask me anything <a href="https://github.com/ekow-mensah/ekow-mensah/issues" title="Issues">Here</a>
-  <br>
-  <br>
-  📫 How to reach me: <a href="mailto: ekow.y.mensah@gmail.com">ekow.y.mensah@gmail.com</a>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,go,nodejs,nestjs,react,angular,html,css,sass&perline=11" alt="Languages & frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,gcp,aws,linux,git,github&perline=11" alt="Data, cloud & tools" />
 </p>
 
-<hr>
-<h2 align="center">👨🏽‍💻 Languages & Frameworks & Tools & Abilities </h2>
-<br>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="PostreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br>
-<br>
-<hr>
+<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekow-mensah&show_icons=true&locale=en&layout=compact" alt="ekow-mensah" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekow-mensah&show_icons=true&locale=en" alt="ekow-mensah" /></p>
-  </div>
-  <div align=center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekow-mensah&" alt="ekow-mensah" /></p>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekow-mensah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+### 📊 GitHub at a glance
 
-<h4 align="center">
-  <a href="https://github.com/ekow-mensah?tab=repositories" title="Show Repositories">🔎 View Repositories 🔍</a>
-</h4>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ekow-mensah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekow-mensah&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=ekow-mensah&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ekow-mensah&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=ffffff&area=true&area_color=2563eb&hide_border=true" alt="Contribution graph" />
+
+<br/><br/>
+
+<a href="https://github.com/ekow-mensah?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563eb,100:0f172a&section=footer" width="100%" alt="footer" />
