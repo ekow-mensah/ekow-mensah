@@ -20,7 +20,7 @@ const ekow = {
   role:       "Software Engineer — APIs & web apps",
   experience: "6+ years",
   building:   "WeGoo — a last mile delivery infrastructure for MSMEs and social commerce businesses",
-  learning:   ["Go", "backend systems design"],
+  learning:   ["Go", "Agentic AI"],
   education:  "MSc Advanced Computer Science, Loughborough University",
 };
 ```
